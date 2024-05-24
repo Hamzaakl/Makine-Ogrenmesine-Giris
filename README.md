@@ -3,7 +3,7 @@
 Bu repo, makine öğrenmesi konularını temel olarak öğrenmek için oluşturulmuş ders anlatımları ve Python kodlarını içermektedir. Amacım, makine öğrenmesine başlayanlar için temel ve anlaşılır bir kaynak sunmaktır.
 
 ## İçindekiler
-- [Makine Öğrenmesi Alogirtmaları](https://github.com/Hamzaakl/Makine-Ogrenmesine-Giris/tree/main/Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/Makine%20%C3%96%C4%9Frenmesi%20Algoritmalar%C4%B1),
+- [Makine Öğrenmesi Algoritmaları](https://github.com/Hamzaakl/Makine-Ogrenmesine-Giris/tree/main/Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/Makine%20%C3%96%C4%9Frenmesi%20Algoritmalar%C4%B1),
 - [Makine Öğrenmesi Python Kodları](https://github.com/Hamzaakl/Makine-Ogrenmesine-Giris/tree/main/Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/Makine%20%C3%96%C4%9Frenmesi%20Python%20Kodlar%C4%B1),
 - [Makine Öğrenmesi Tanımları ](https://github.com/Hamzaakl/Makine-Ogrenmesine-Giris/tree/main/Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/Makine%20%C3%96%C4%9Frenmesi%20Tan%C4%B1mlar%C4%B1),
 - [Makine Öğrenmesi Türleri](https://github.com/Hamzaakl/Makine-Ogrenmesine-Giris/tree/main/Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/Makine%20%C3%96%C4%9Frenmesi%20T%C3%BCrleri),
