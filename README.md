@@ -31,7 +31,7 @@ Bu repo, makine öğrenmesi konularını temel olarak öğrenmek için oluşturu
 
 
 
-- Mastering Machine Learning with scikit-learn Secon Edition Gavin Hackeling
+- Mastering Machine Learning with scikit-learn Second Edition Gavin Hackeling
 - Makine Öğrenmesi Temelleri Ders Notu Dr. Cahit Karakuş 
 - [Veri Bilimi Sınıflandırma Model Çıktılarını Değerlendiren Metrikler (Confusion Matrix, Accuracy, ROC-AUC, Log Loss, MCC) Python Uygulaması ](https://yigitsener.medium.com/veri-bilimi-s%C4%B1n%C4%B1fland%C4%B1rma-model-%C3%A7%C4%B1kt%C4%B1lar%C4%B1n%C4%B1-de%C4%9Ferlendiren-metrikler-confusion-matrix-accuracy-437f5633c82b)
 - [Python ile Sınıflandırma](https://medium.com/@gulcanogundur/python-ile-s%C4%B1n%C4%B1fland%C4%B1rma-algoritmalar%C4%B1-74797c9c98a9)
