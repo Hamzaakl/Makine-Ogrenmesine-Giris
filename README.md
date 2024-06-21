@@ -9,7 +9,7 @@ Bu repo, makine öğrenmesi konularını temel olarak öğrenmek için oluşturu
 - [Makine Öğrenmesi Türleri](https://github.com/Hamzaakl/Makine-Ogrenmesine-Giris/tree/main/Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/Makine%20%C3%96%C4%9Frenmesi%20T%C3%BCrleri),
 - [Makine Öğrenmesine Giriş](https://github.com/Hamzaakl/Makine-Ogrenmesine-Giris/tree/main/Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F),
 
-## Kullanılan Alogirtmalar
+## Kullanılan Algoritmalar
 
 - [Kümeleme](https://github.com/Hamzaakl/Makine-Ogrenmesine-Giris/tree/main/Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/Makine%20%C3%96%C4%9Frenmesi%20Python%20Kodlar%C4%B1/K%C3%BCmeleme)
   --
